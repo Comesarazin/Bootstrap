@@ -1,0 +1,23 @@
+nav {
+    display: flex;
+    justify-content: space-between;
+    background-color: blue;
+    color: white;
+}
+
+header h1 {
+    text-align: center;
+}
+
+.lanav {
+    display: flex;
+}
+
+.lanav p {
+    padding: 5px;
+}
+
+img {
+    height: 200px;
+}
+
